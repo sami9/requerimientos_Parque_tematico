@@ -1,2 +1,1 @@
 # requerimientos_Parque_tematico
-Proyecto de requerimientos
